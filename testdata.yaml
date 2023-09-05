@@ -5,6 +5,6 @@ url_api_posts: https://test-stand.gb.ru/api/posts
 url_api_create_posts: https://test-stand.gb.ru/gateway/posts
 browser: chrome
 sleep_time: 1
-username: AlexeyZ2
+username: PaveL193
 password: d885569a6b
 test: test
